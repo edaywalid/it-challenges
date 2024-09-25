@@ -1,3 +1,4 @@
 [submodule "reverse-proxy"]
 	path = reverse-proxy
 	url = git@github.com:edaywalid/reverse-proxy.git
+	branch = main
