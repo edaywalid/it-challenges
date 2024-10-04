@@ -2,3 +2,7 @@
 	path = proxy-server
 	url = git@github.com:edaywalid/reverse-proxy.git
 	branch = main
+[submodule "url-shortener"]
+	path = url-shortener
+	url = git@github.com:edaywalid/url-shortener.git
+  branch = main
